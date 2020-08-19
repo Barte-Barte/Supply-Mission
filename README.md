@@ -1,2 +1,1 @@
-# Supply-Mission
-A Supply Drop
+# SupplyMission
